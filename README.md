@@ -1,4 +1,4 @@
-# Sentiment Analysis on IMDb Reviews using Deep Learning 🎥
+# Sentiment Analysis on IMDb Reviews using Deep Learning 🎬
 
 This project implements the universal workflow of machine learning for binary classification. The goal is to classify IMDb movie reviews as positive or negative based on their textual content. It leverages deep learning techniques to develop, train, and evaluate models for sentiment prediction.
 
