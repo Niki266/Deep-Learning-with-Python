@@ -16,13 +16,6 @@ This project implements the universal workflow of machine learning for binary cl
   - Analyzing the impact of various configurations on model performance.
 - **Visualization**: Includes plots for training/validation accuracy and loss.
 
-## 📂 Project Structure
-```
-Deep-learning-with-Python
-├── Deep learning with python.ipynb   # Jupyter Notebook with code and explanations
-├── README.md                         # Project documentation
-```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -42,6 +35,13 @@ Deep-learning-with-Python
    jupyter notebook
    ```
 3. Open and run the `Deep learning with python.ipynb` notebook to explore the analysis and predictions.
+
+## 📂 Project Structure
+```
+Deep-learning-with-Python
+├── Deep learning with python.ipynb   # Jupyter Notebook with code and explanations
+├── README.md                         # Project documentation
+```
 
 ## ✨ Highlights
 - Uses **binary classification** to predict sentiments of movie reviews.
